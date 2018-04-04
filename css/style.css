@@ -247,3 +247,10 @@ footer aside ul li, footer aside h4 {
 footer aside ul {
     margin: 0px 0px 15px 0px;
 }
+
+
+footer .social li {
+display: inline-block;
+padding: 0px 5px;
+font-size: 20px;
+}
