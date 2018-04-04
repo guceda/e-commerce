@@ -162,3 +162,12 @@ main .products article .descuento {
     opacity: 0.7;
 
 }
+
+#brands .brand {
+    display: inline-block;
+}
+
+
+#brands h2 {
+    display: none;
+}
